@@ -4,7 +4,7 @@ As an aspiring web developer who needs these technologies to make your life easi
 - CSS: making your website is beautiful and style your elements on page.
 - JavaScript: is a high level programming language that brings dynamic behavior and interacivity to websites.
 
-e.g.
+E.g.(HTML, CSS, and JavaScript)
 ```
 <!DOCTYPE html>
 <html>
