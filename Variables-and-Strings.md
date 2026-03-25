@@ -1,4 +1,4 @@
-## What the JavaScript, HTML, and CSS
+### What the JavaScript, HTML, and CSS
 As an aspiring web developer who needs these technologies to make your life easier:
 - HTML: is the foundation of building websites or structures content
 - CSS: making your website is beautiful and style your elements on page.
